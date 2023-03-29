@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+`UC San Diego` 
 
-Organize your courses by years, topics, or universities, however you like!
+PSYCH 105: Cognitive Psychology with Dr. Emma Geller
+
+PSYCH 162: Psychology and the Law with Dr. John Wixted

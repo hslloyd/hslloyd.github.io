@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Data Science Pathways
+description: a research project measuring links between student attitudes, engagement, and learning in introductory data science courses at scale
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: 
 importance: 3
 category: work
 ---
