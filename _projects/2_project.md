@@ -3,7 +3,7 @@ layout: page
 title: Graph Comprehension Benchmarking
 description: A research project investigating what graph comprehension is and how do you measure it?
 img: assets/img/graph.jpg
-importance: 2
+importance: 3
 category: work
 ---
 
