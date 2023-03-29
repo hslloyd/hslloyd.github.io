@@ -2,10 +2,24 @@
 layout: page
 title: Graph Comprehension Benchmarking
 description: A research project investigating what graph comprehension is and how do you measure it?
-img: assets/img/3.jpg
+img: assets/img/graph.jpg
 importance: 2
 category: work
 ---
+
+
+<!--
+---
+layout: post
+title: a post with redirect
+date: 2022-02-01 17:39:00
+description: you can also redirect to assets like pdf
+redirect: /assets/pdf/example_pdf.pdf
+---
+
+Redirecting to another page.-->
+
+
 
 ## Interactive Plots
 
