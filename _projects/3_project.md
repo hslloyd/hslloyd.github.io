@@ -7,29 +7,21 @@ redirect:
 importance: 2
 category: work
 ---
----
-layout: page
-title: Interface design for millions of learners
-description: The usability of <b>Quizlet</b> as a learning tool for students
-img: assets/img/studying.jpg
-importance: 1
-category: work
----
 <!--Abstract-->
 ## 📌 **Project Abstract** 
 <!--2. Client/Company/Project type-->
-- **Project:** Term project on [Quizlet](https://quizlet.com/) for an undergraduate [Human Factors](https://psychology.ucsc.edu/courses/index.php/course/2190-42801/human-factors) course at UCSC.
+- **Project:** Research project asking psychological questions using the [CourseKata](https://coursekata.org/) platform. 
 <!--3. Project date (When did you work on the project)-->
-- **Timeframe:** Six weeks (Winter 2019)
+- **Timeframe:** June 2022 - Present
 <!--4. Your role (What you were responsible for on the project)-->
-- **My Role:** UX Researcher & project manager.
-- **Team:** I collaborated with two other students in this project. We all participated in the capacity as a UX researcher and project manager. 
+- **My Role:** Lead researcher and project manager.
+- **Team:** The team consists of two principal investigators, a graduate student researcher, an undergraduate researcher, and myself.
 <!--UX methods-->
-- **Methods:** Agile, [User Requirements Interview](#user-req-int), [User Evaluation Tasks](#user-tasks), & [User Experience Questionnaires](#user-exp-ques)
+- **Methods:** Agile, [](#user-req-int), [](#user-tasks), & [](#user-exp-ques)
 <!--logos-->
-- **Tools:** Miro, keynote, QuickTime Player, google sheets, & google drive
-- **Deliverable:** Slide deck and written report.
-- **Impact:** Awarded best presentation and project for the course. 
+- **Tools:** Miro, R, Rmarkdown, keynote, Statistical Models, Latex, Bibtex, & Zotero 
+- **Deliverable:** Conference presentation, presentation to [CourseKata](https://coursekata.org/) creators, & paper submission to association for computing machinery.
+- **Impact:** Awarded best presentation at a conference. 
 
 ## **Project Overview**
 <!-- importance -->
@@ -62,7 +54,7 @@ My collaboraters and I were motivated to:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dsp/cool_orange.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dsp/figure1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
