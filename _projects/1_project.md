@@ -9,16 +9,16 @@ category: work
 <!--Abstract-->
 ## 📌 **Project Abstract** 
 <!--2. Client/Company/Project type-->
-- **Project:** Term project on [Quizlet](https://quizlet.com/) for an undergraduate [Human Factors](https://psychology.ucsc.edu/courses/index.php/course/2190-42801/human-factors) course at UCSC.
+- **Project:** Term project on [Quizlet](https://quizlet.com/) for an undergraduate  Human Factors.
 <!--3. Project date (When did you work on the project)-->
-- **Timeframe:** Six weeks (Winter 2019)
+- **Timeframe:** Six weeks
 <!--4. Your role (What you were responsible for on the project)-->
-- **My Role:** UX Researcher & project manager.
-- **Team:** I collaborated with two other students in this project. We all participated in the capacity as a UX researcher and project manager. 
+- **My Role:** UX researcher & project manager.
+- **Team:** I collaborated with two other students on this project. We all participated in the capacity as a UX researcher and project manager. 
 <!--UX methods-->
-- **Methods:** Agile, [User Requirements Interview](#user-req-int), [User Evaluation Tasks](#user-tasks), & [User Experience Questionnaires](#user-exp-ques)
+- **Methods:** Agile method, [User Requirements Interview](#user-req-int), [User Evaluation Tasks](#user-tasks), & [User Experience Questionnaires](#user-exp-ques)
 <!--logos-->
-- **Tools:** Miro, keynote, QuickTime Player, google sheets, & google drive
+- **Tools:** Miro, Keynote, QuickTime Player, Google Sheets, & Google Drive
 - **Deliverable:** Slide deck and written report.
 - **Impact:** Awarded best presentation and project for the course. 
 
@@ -105,7 +105,7 @@ Tasks
 </div>
 </div>
 
-##### User Experience Questionnaires {#user-task-ques}
+##### User Experience Questionnaires {#user-exp-ques}
 Participants:
 : Participants were the same from the [User Task Evaluations](#user-tasks).  
 
@@ -113,7 +113,7 @@ Interview:
 : Participants were asked to rate on a scale of 1 - 7 how much the give word fits as a descriptive word for Quizlet. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/quizlet/questionnaire_short.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/quizlet/questionnaire_short.png" title="example image" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 

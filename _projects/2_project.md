@@ -17,9 +17,9 @@ category: work
 - **My Role:** Lead researcher and project manager.
 - **Team:** The team consists of two principal investigators,a postdoctoral scholar, two graduate student researchers, and myself.
 <!--UX methods-->
-- **Methods:** Agile, [](#user-req-int), [](#user-tasks), & [](#user-exp-ques)
+- **Methods:** Waterfall method, [](#user-req-int), [](#user-tasks), & [](#user-exp-ques)
 <!--logos-->
-- **Tools:** Miro, R, Rmarkdown, keynote, Statistical Models, MongoDB, node.JS, HTML/CSS, javascript, python, Prolific, Latex, Bibtex, & Zotero 
+- **Tools:** Miro, R, Rmarkdown, Statistical Models, MongoDB, node.JS, HTML/CSS, javascript, python, Prolific, Keynote, Adobe Illustrator, Git, Latex, Bibtex, & Zotero 
 - **Deliverable:** Departmental presentation, conference paper submission to Cognitive Science Society, & manuscript in prep for journal submission..
 - **Impact:** Awarded best presentation at a conference. 
 
@@ -54,7 +54,7 @@ My collaboraters and I were motivated to:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gcb/figure1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/gcb/figure1.jpg" title="example image" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 

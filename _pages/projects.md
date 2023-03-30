@@ -5,9 +5,11 @@ permalink: /projects/
 description: A collection of recent projects I am lead or co-lead!
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
+<!--display_categories: [work,fun]  -->
+
 
 <!-- pages/projects.md -->
 <div class="projects">
