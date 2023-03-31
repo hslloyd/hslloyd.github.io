@@ -9,7 +9,7 @@ category: work
 <!--Abstract-->
 ## 📌 **Project Abstract** 
 <!--2. Client/Company/Project type-->
-- **Project:** Term project on [Quizlet](https://quizlet.com/) for an undergraduate  Human Factors.
+- **Project:** Term project on [Quizlet](https://quizlet.com/) for aHuman Factors course.
 <!--3. Project date (When did you work on the project)-->
 - **Timeframe:** Six weeks
 <!--4. Your role (What you were responsible for on the project)-->
