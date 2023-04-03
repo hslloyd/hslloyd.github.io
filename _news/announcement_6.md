@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a guest lecture in Science of Leaning Data Science  (Psych 193L) on Graph Comprehension at UC San Diego.
+I gave a guest lecture in Science of Learning Data Science  (Psych 193L) on Graph Comprehension at UC San Diego.
