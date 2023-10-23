@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received my master's in experimental psychology with a specialization in computational cognition.
+I earned my master's degree in experimental psychology with a specialization in computational cognition at UC San Diego.

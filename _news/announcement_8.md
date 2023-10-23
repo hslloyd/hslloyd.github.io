@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be presenting my work on [Predicting student learning outcomes](../_projects/3_project.md) at DREAM 2023
+I will be presenting my work on [Predicting Student Learning Outcomes](../_projects/3_project.md) at DREAM 2023

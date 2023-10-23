@@ -4,4 +4,4 @@ date: 2022-12-08 07:59:00-0400
 inline: true
 related_posts: false
 ---
-My colleagues (Erik Brockbank and Zoe Tait) and I presented at PsychTERMS and were awarded the Best Presentation Award for our work on <i>understanding how student attitudes and engagement relate to academic achievement in data science and statistics courses</i>.
+I presented at PsychTERMS 2022 and was awarded the Best Presentation Award for my work on [Understanding How Student Attitudes and Engagement Relate to Academic Achievement in Data Science and Statistics Courses](../projects/3_project/).
