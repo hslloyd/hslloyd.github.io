@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My colleagues, Erik Brockbank, Zoe Tait, and I gave a talk on our work predicticting learning outcomes in [CourseKata](../projects/3_project/) to the creators of [CourseKata](https://uclatall.com/)
+My colleagues, Erik Brockbank, Zoe Tait, and I gave a talk on our work predicticting student learning outcomes in the [CourseKata dataset](../projects/3_project/) to the creators of the [CourseKata] textbook (https://uclatall.com/)
