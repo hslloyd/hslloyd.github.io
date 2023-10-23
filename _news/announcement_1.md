@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started graduate school at UC San Diego!
+I started graduate school at UC San Diego's Department of Psychology!

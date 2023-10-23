@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented my work at CogSci 2023 in Sydney, Australia
+I presented my work ["Comparing Assesments of Graph Comprehension"](https://hslloyd.github.io/assets/studies/gcb_cogsci23.pdf)at [CogSci 2023](https://escholarship.org/uc/item/6wx5v99w) in Sydney, Australia
