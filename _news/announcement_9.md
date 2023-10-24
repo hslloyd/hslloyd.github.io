@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received a certificate of completion for the UC San Diego Psychology Department's Workshop Series on Teaching and Mentoring in Psychology.
+I received a certificate of completion for the UC San Diego Psychology Department's <i>Workshop Series on Teaching and Mentoring in Psychology</i>.
