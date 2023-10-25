@@ -9,7 +9,7 @@ category: work
 <!--Abstract-->
 ## 📌 **Project Abstract** 
 <!--2. Client/Company/Project type-->
-- **Project:** Term project on [Quizlet](https://quizlet.com/) for aHuman Factors course.
+- **Project:** Term project on [Quizlet](https://quizlet.com/) for a Human Factors course.
 <!--3. Project date (When did you work on the project)-->
 - **Timeframe:** Six weeks
 <!--4. Your role (What you were responsible for on the project)-->
@@ -90,7 +90,9 @@ Tasks
 : 
 <!--8. Results (Project success metrics, awards, reflections, project next steps and/or lessons learnt)--> 
 - Participants consistently struggled with task 1, demonstrating a weakness in the accurate connection between the user’s mental model of the interface’s metaphorical use of the term “import” and the system’s conceptual model. The metaphor in this feature is presented as a way to import in analogous with the physical action of importing goods (food, materials, etc. through ships, trains, planes); a form of bringing resources from another system to the current one. Participant’s mental model was evidently similar to many systems that utilize the term “import,” meaning bringing an entire file from one system to the current. Quizlet doesn’t accurately depict that interface metaphor since this feature doesn’t evidently offer that function, deceiving the users until they realize the mechanism required to copy-and-paste the information over.  
+
 -  After completing task 2, none of the participants were entirely confident with their understanding of the concept of interest (gestalt grouping principles). Since this task was implemented to understand the frequented use of Quizlet as a search engine for questions, many participants seemed overwhelmed by how information was being presented to them. Ultimately many of them were demonstrating a level of fatigue from an overload of information. Participants consistently suggested they always looked for simpler sets of information, relative to the superfluous study sets offered to them. This is an issue of the mission of Quizlet versus the user experience of the system: Quizlet’s search engine ultimately matched the user with the title of the set-in regard to what string they searched. The presented search engine results depict that Quizlet prioritizes the user finding sets, rather than information. This then leads an interface weakness of mapping between the system and the real world. User’s expected to be able to use the search engine to get a layout familiar to them of information, but they were provided with flashcard sets that were difficult to used. In the real world, when looking for an answer to information, people default to mediums with a layout of text (i.e. textbooks, dictionaries, etc.), users don’t often look through flash cards to find an answer. In support of this flaw in mapping between system and the real world, participant Z stated he expected to find information from the class, not the sets, since the class feature matches his mental model of class, “where people learn new information.” Participant Z, and others, were surprised after struggling to find the information buried in a set. All of the users expected to find the information and have to weave through sets to get there. 
+
 - In task 3, participants were generally successful in finding the course of interest, indicating that the user’s expectation of finding a course was met. The system generally offered leeway for exploration of customizing a set, and most of the participants were able to do so in this manner. While it took a bit of time for users to complete this task, in observations this task seemed to be overall the most errorless.
 
 <div class="row">
@@ -123,13 +125,17 @@ Interview:
  After all participants completed each task, they reported on a scale of 1-to-7, an average positive valanced word rating of 5.44 with a standard deviation of 0.37. Indicating a lot of positive valanced words like fast, organized, and expected were strongly fitting to the interface. On the same scale, they rated negative valanced words as not being fit around 2.7 with a standard deviation of 0.49. This is in congruency with the indication that a lot of negative valanced words like complex, annoying, inconsistent as not fitting well to the interface (See Table 3 and Appendix D for more information on this User Experience Questionnaire). After everyone completed the tasks, some common words to describe Quizlet was “helpful, massive, content, and confused.”
 
 ## 💭**Project Takeaways**
+<b>User Expectations and Mental Models</b>: The project highlighted the importance of aligning a system's interface with users' mental models and expectations. Task 1 revealed that participants struggled with the term "import" due to a mismatch between the system's metaphorical use and the user's mental model. Understanding and adapting to user expectations is critical for a seamless user experience.
 
- - [x]  Write the press release
+<b>Information Accessibility</b>: Task 2 exposed a challenge where users felt overwhelmed by the presentation of information. Participants expected to find information laid out in a familiar text format, similar to textbooks, rather than within flashcard sets. This underscores the need to prioritize information accessibility and layout, especially when using an application as a learning tool.
 
-  [ ] Update the website
+<b>Task Success Rates</b>: The project's usability testing revealed varying task success rates. While Task 1 had challenges, Task 3 was relatively error-free. This suggests that certain features may need more user-friendly design improvements to enhance task completion times and overall user satisfaction.
 
-  [ ] Contact the media
+<b>User Experience Ratings</b>: The User Experience Questionnaires demonstrated that participants associated Quizlet with positive valanced words like "fast," "organized," and "expected." However, negative valanced words like "complex" and "annoying" also emerged, albeit less frequently. These ratings reflect users' perceptions of Quizlet's strengths and weaknesses.
 
+<b>Project Impact</b>: The project achieved recognition as the best presentation and project for the course, indicating the significance of the findings and their potential to drive improvements in Quizlet's usability and user experience. This success highlights the value of human factors research and the potential for its application in real-world contexts.
+
+These takeaways serve as valuable insights for enhancing Quizlet's usability and effectiveness as a learning tool for millions of students worldwide.
 <br>
 
 <br>

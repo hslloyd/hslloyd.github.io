@@ -1,12 +1,24 @@
 ---
 layout: page
-title: Data Science Pathways
-description: a research project predicting student outcomes in introductory data science courses
-img: assets/img/nasa.jpg
+title: ''
+description: ''     
+img: assets/studies/dsp.png
 redirect: 
 importance: 2
 category: work
 ---
+
+<div class="col d-flex justify-content-center align-items-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/studies/dsp.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="caption">
+        CAPTION
+    </div>
+</div>
+
+
+
 <!--Abstract-->
 ## 📌 **Project Abstract** 
 <!--2. Client/Company/Project type-->
