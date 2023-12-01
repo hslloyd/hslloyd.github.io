@@ -1,1 +1,15 @@
-```{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE) ``` ## R Markdown ```{r cars} summary(cars) ``` ```{r pressure, echo=FALSE} plot(pressure) ```
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
+```{r cars}
+summary(cars)
+```
+
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
