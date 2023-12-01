@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented my work on [Predicting Student Learning Outcomes](../projects/3_project/) at [DREAM 2023](https://research.coursekata.org/docs/news/index.html)
+I presented my work on [Predicting Student Learning Outcomes](https://hslloyd.github.io/assets/studies/dsp_slides.pdf) at [DREAM 2023](https://research.coursekata.org/docs/news/index.html)
